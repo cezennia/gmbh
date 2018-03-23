@@ -1,0 +1,32 @@
+
+
+.panel-block p, .panel-block h2 {
+  text-align: left;
+}
+
+.title.is-4 {
+  font-size: 1rem;
+}
+
+.subtitle.is-6 {
+  font-size: 0.8rem;
+}
+
+.tags .tag {
+  margin-bottom: 0.5rem;
+  border: 1px solid #eee;
+}
+
+.header {
+  background-color: #fafbfc;
+  /* padding-top: 30px; */
+}
+
+.level{
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.button.is-primary {
+  background-color: #279f43;
+}
